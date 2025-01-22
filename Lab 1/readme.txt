@@ -10,9 +10,6 @@ My storyboard has:
 - 2 releases and unscheduled tasks
 - 1 extra feature
 
-
-
-
 General thought process for developing the story map:
 I had three main goals in my story map: the first one being the "Get groceries delivered" which is the goal of th user, the second being "Sell to customers" which is the store's main goal and the last one being "Delivery" which is the goal of the delivery person.
 
